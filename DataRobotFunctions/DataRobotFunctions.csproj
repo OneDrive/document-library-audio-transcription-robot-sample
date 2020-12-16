@@ -9,10 +9,10 @@
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Graph">
-      <HintPath>..\..\..\NuGet PreRelease\Microsoft.Graph.dll</HintPath>
+      <HintPath>..\packages\Microsoft.Graph.1.14.0\lib\net45\Microsoft.Graph.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Graph.Core">
-      <HintPath>..\..\..\NuGet PreRelease\Microsoft.Graph.Core.dll</HintPath>
+      <HintPath>..\packages\Microsoft.Graph.Core.1.14.0\lib\net45\Microsoft.Graph.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
